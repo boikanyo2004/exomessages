@@ -1,0 +1,1 @@
+#This is a basic messaging app coded by java and php.it shows all users from the database as people that you might be interested to be friends with,all your friends,your friends statuses and communicating with your friends.
